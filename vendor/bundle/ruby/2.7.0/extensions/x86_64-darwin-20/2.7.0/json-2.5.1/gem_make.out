@@ -1,0 +1,13 @@
+current directory: /Users/toshiki/Documents/Techpit/big-tweet/bigtweet2/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+/Users/toshiki/.rbenv/versions/2.7.1/bin/ruby -I /Users/toshiki/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210416-7399-1rdboy2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/toshiki/Documents/Techpit/big-tweet/bigtweet2/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/toshiki/Documents/Techpit/big-tweet/bigtweet2/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/toshiki/Documents/Techpit/big-tweet/bigtweet2/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" install
